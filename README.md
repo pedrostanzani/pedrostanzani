@@ -1,6 +1,6 @@
 # Hey! I'm Pedro 👋
 
-I am a visiting undergraduate student at the **University of California, Berkeley**.
+I am a visiting undergraduate student at the **University of California, Berkeley**. 🧸🇺🇸
 
 Mostly interested in:
 - full-stack software engineering
